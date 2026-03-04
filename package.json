@@ -1,0 +1,11 @@
+{
+  "name": "promo-0rientd-llm-skill",
+  "version": "0.2.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "0rientd.dev.br",
+  "license": "MIT License",
+  "type": "module"
+}
